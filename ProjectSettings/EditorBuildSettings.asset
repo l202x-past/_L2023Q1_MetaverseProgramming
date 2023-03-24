@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/week03_GetSetValues/week03_DriveMyCube.unity
     guid: 1a578cc7183196f40bcf8c01e8231f68
+  - enabled: 1
+    path: Assets/week04_Bowling/week04_BowlingGame.unity
+    guid: eb14029028cd7c4419a0b03a8fdb97f3
   m_configObjects: {}
